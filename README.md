@@ -1,2 +1,2 @@
-# dotfiles
-Dotfiles for i3
+# Dotfiles 
+The varioues configuration files for my window manager setup. 
