@@ -1,0 +1,8 @@
+2024/04/09-14:04:48.298 18c5b Creating DB /home/levon/.config/discord/Local Storage/leveldb since it was missing.
+2024/04/09-14:04:48.304 18c5b Reusing MANIFEST /home/levon/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/04/09-14:13:14.354 18c5d Level-0 table #5: started
+2024/04/09-14:13:14.370 18c5d Level-0 table #5: 752472 bytes OK
+2024/04/09-14:13:14.373 18c5d Delete type=0 #3
+2024/04/09-14:13:21.109 18c5d Level-0 table #7: started
+2024/04/09-14:13:21.127 18c5d Level-0 table #7: 2268658 bytes OK
+2024/04/09-14:13:21.129 18c5d Delete type=0 #4

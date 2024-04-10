@@ -1,0 +1,6 @@
+2024/04/09-14:02:49.244 169b1 Creating DB /home/levon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_piped.video_0.indexeddb.leveldb since it was missing.
+2024/04/09-14:02:49.248 169b1 Reusing MANIFEST /home/levon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_piped.video_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/09-14:47:59.597 169b2 Level-0 table #5: started
+2024/04/09-14:47:59.599 169b2 Level-0 table #5: 6264 bytes OK
+2024/04/09-14:47:59.600 169b2 Delete type=0 #3
+2024/04/09-14:47:59.601 169b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
