@@ -1,7 +1,0 @@
-Bitdefender
-ClamAV
-Kaspersky
-Malwarebytes
-TotalAV
-netcat
-checksum_v1 = 0a33ca26b730bda0a82defc23553e507

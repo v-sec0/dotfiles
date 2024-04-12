@@ -1,7 +1,0 @@
-2024/04/10-15:06:44.581 ed2 Reusing MANIFEST /home/levon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
-2024/04/10-15:06:44.581 ed2 Recovering log #3
-2024/04/10-15:06:44.581 ed2 Reusing old log /home/levon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000003.log 
-2024/04/10-15:06:44.798 ed4 Level-0 table #5: started
-2024/04/10-15:06:44.800 ed4 Level-0 table #5: 10445 bytes OK
-2024/04/10-15:06:44.801 ed4 Delete type=0 #3
-2024/04/10-15:06:44.802 ed1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
