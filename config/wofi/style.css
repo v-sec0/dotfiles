@@ -1,0 +1,36 @@
+window {
+    margin: 5px;
+    background-color: rgba(100, 114, 125, 0.5);
+}   
+
+#input {
+    margin: 5px;
+    border: 2px solid rgba(100, 114, 125, 0.5);
+    background-color: #282c34;
+    font-family: "0xProto Nerd Font"
+}
+
+#inner-box {
+    margin: 5px;
+    background-color: #282c34;
+}
+
+#outer-box {
+    margin: 5px;
+    background-color: #282c34;
+}
+
+#text {
+    margin: 5px;
+    background: transparent;
+    font-family: "0xProto Nerd Font"; 
+}
+
+#entry:selected {
+    background-color: #c678dd;
+    border: 2px solid #a456bb;
+}
+
+#entry:selected #text {
+    font-weight: bold;
+}
